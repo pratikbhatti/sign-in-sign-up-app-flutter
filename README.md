@@ -11,6 +11,8 @@ This app is a Sign in and Sign up app. This app is made in flutter technology. a
 <img src="https://user-images.githubusercontent.com/125340601/218705794-1f080605-eec9-46f0-a668-74c0dd0ea13f.png" weight="700" height="800"/>
 <h3> Successful Login Screen </h3>
 <img src="https://user-images.githubusercontent.com/125340601/218706008-18a46ce1-6bb4-42f9-b93c-1aa93c7b1f8e.png" weight="700" height="800"/>
+<h3> Change Password Screen </h3>
+<img src="https://user-images.githubusercontent.com/125340601/218944615-900dc187-5325-49c9-9877-ce7ef16b6467.png" weight="700" height="800"/>
 
 
 
